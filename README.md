@@ -5,6 +5,8 @@ lighting, and more.
 
 SETUP:
 
+Get your API Key from [Black Forest Labs](https://dashboard.bfl.ai/)
+
 Set your API key as an environment variable:
 ```
 bash
